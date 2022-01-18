@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Gunn Finance Club</title>
+    <link rel="shortcut icon" type="image/png" href="../images/cashclublogo.png"/>
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="../css/footerStyles.css">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700;900&display=swap" rel="stylesheet">
+    <!-- Other -->
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://kit.fontawesome.com/81f93d9156.js" crossorigin="anonymous"></script>
+    <meta charset="utf-8">
+</head>
+
+<body>
+    <div class="mainContent2">
+        <header class="siteNavHeader">
+            <a href="../" class="navTitleRef">
+                <h1 class="navMainTitle">The Spanakopita</h1>
+            </a>
+            <nav class="navbarItems">
+                <ul class="navbarLinks">
+                    <li><a href="../index.html">Home</a></li>
+                    <li><a href="../articles/index.html">Articles</a></li>
+                    <li><a href="../about/index.html">About</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <div class="topicsBackgroundDiv">
+            <section class="topicsBackgroundSection">
+                <article>
+                    <span class="topicsTitle">
+                        Spanakopita Review: Campus Trees To Be Modernized With Plastic Replacements
+                    </span>
+                </article>
+
+                <article class="Title" style="color: white;">
+                    <p style="font-size: 20px; line-height: 1.2;">Gunn will replace all the real trees on campus with plastic ones. 
+
+Ever since Gunn made the decision to switch from natural to plastic grass, the school has saved immensely on water bills. Therefore in order to save even more money, District board member Barbara Martin plans to replace all the real trees with plastic ones.
+
+The saved costs will help purchase a new microwave for the staff room. “The teachers have been looking forward to this for a long time now,” she said. “Ever since William tried to heat up his socks last year, the microwave just hasn’t worked the same.”
+
+Martin explains how this change is not only beneficial for the staff but also for the environment. “Deforestation is a big issue in this day and age, so Gunn is combating this with a modern approach,” she said. “Plastic trees are much more sustainable and long-lasting than some dying old plants.”
+</p>
+                </article>
+            </section>
+        </div>
+
+    <section class="mainFooterSection">
+        <article>
+            <section class="footerSection">
+                <article>
+                    <a href="">
+                        <img src="../images/gunnfinance.jpg" width="70" height="70" alt="GCCC logo">
+                    </a>
+                </article>
+
+                <article>
+                    <p class="footerSectionTitles">Community</p>
+                    <a href="">Discord</a><br>
+                    <a href="">YouTube</a><br>
+                </article>
+
+                <article>
+                    <p class="footerSectionTitles">Join</p>
+                    <a href="">Sign up Form</a><br>
+                </article>
+
+                <article>
+                    <p class="footerSectionTitles">About</p>
+                    <a href="">Our Mission</a><br>
+                    <a href="">Topics</a><br>
+                </article>
+            </section>
+        </article>
+
+        <article class="footerDivider">
+            <div class="footerDivider">
+            </div>
+        </article>
+
+        <article>
+            <p class="footerCopyRight">
+                The Spanakopita
+            </p>
+        </article>
+    </section>
+
+</body>
+
+</html>
